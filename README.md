@@ -11,13 +11,9 @@
 * [Autor](#-autor)
 * [Contato](#%EF%B8%8F-contato)
 
-# 
-
 ## ⚙️ Introdução 
 
 Projeto para a criação de um mini portfólio apresentando algumas informações pessoais e redes sociais, criado durante o evento da Mapa Dev Week.
-
-#
 
 ## 🖥️ Tecnologias utilizadas
 
@@ -33,26 +29,18 @@ Projeto para a criação de um mini portfólio apresentando algumas informaçõe
 
 - ``Github``
 
-#
-
 ## 🪚 Funcionalidades do projeto
 
 - ``Funcionalidade 1:`` Alternância entre seções e mudança de conteúdo ao clicar nos botões de "Sobre" e "Redes sociais"
-
-#
 
 ## 📂 Acesso ao projeto
 
 Você pode acessar o projeto [via link](https://gustavotht21.github.io/mini-portfolio/) ou [baixar o projeto](https://github.com/gustavotht21/mini-portfolio/archive/refs/heads/main.zip) e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
 
-# 
-
 ## 👤 Autor
 
 | [<img src="https://github.com/gustavotht21.png" width=115><br><sub>Gustavo Casagrande Borges</sub>](https://github.com/gustavotht21) |  
 | :---: | 
-
-#
 
 ## ✉️ Contato
 
